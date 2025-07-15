@@ -111,17 +111,27 @@ A high-level performance overview with:
 🔹 **Executive Summary**  
 ![Executive Summary](DMC-screenshot/executive_summary.png)
 
+
+
 🔹 **Campaign Performance**  
 ![Campaign Performance](DMC-screenshot/campaign_performance.png)
+
+
 
 🔹 **Audience Insights**  
 ![Audience Insights](DMC-screenshot/audience_insights.png)
 
+
+
 🔹 **Channel Performance**  
 ![Channel Performance](DMC-screenshot/channel_performance.png)
 
+
+
 🔹 **Geo Analysis**  
 ![Geo Analysis](DMC-screenshot/geo_analysis.png)
+
+
 
 🔹 **Slicer Panel**  
 ![Slicer Panel](DMC-screenshot/slicer_panel.png)
