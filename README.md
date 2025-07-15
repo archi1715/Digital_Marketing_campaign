@@ -109,7 +109,7 @@ A high-level performance overview with:
 📸 Dashboard Screenshots
 
 🔹 Executive Summary  
-![Executive Summary](images/dashboard_screenshots/executive_summary.png)
+![Executive Summary](DMC-screenshot/Screenshot 2025-07-15 005248.png)
 
 🔹 Campaign Performance  
 ![Campaign Performance](images/dashboard_screenshots/campaign_performance.png)
