@@ -116,6 +116,7 @@ A high-level performance overview with:
 
 🔹 Audience Insights  
 ![Audience Insights](DMC-screenshot/Screenshot 2025-07-15 005550.png)
+
 🔹 Channel Performance  
 ![Channel Performance](DMC-screenshot/Screenshot 2025-07-15 005613.png)
 
@@ -124,6 +125,7 @@ A high-level performance overview with:
 
 🔹 Slicer Panel  
 ![Slicer Panel](DMC-screenshot/Screenshot 2025-07-15 005724.png)
+
 
 
 
