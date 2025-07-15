@@ -106,5 +106,53 @@ A high-level performance overview with:
 
 
 
-## 📂 Project Folder Structure
+📸 Dashboard Screenshots
+
+🔹 Executive Summary  
+![Executive Summary](images/dashboard_screenshots/executive_summary.png)
+
+🔹 Campaign Performance  
+![Campaign Performance](images/dashboard_screenshots/campaign_performance.png)
+
+🔹 Audience Insights  
+![Audience Insights](images/dashboard_screenshots/audience_insights.png)
+
+🔹 Channel Effectiveness  
+![Channel Performance](images/dashboard_screenshots/channel_performance.png)
+
+🔹 Geo Analysis  
+![Geo Analysis](images/dashboard_screenshots/geo_analysis.png)
+
+
+
+💼 Ideal for These Job Roles
+
+- Data Analyst  
+- BI Analyst  
+- Marketing Analyst  
+- Reporting Analyst  
+
+
+🧠 Tools & Skills Demonstrated
+
+skill Description 
+
+Python: Data wrangling, missing value handling, feature engineering |
+Power BI: KPI cards, dynamic visuals, bookmarks, slicer panel |
+DAX: Custom calculated measures for ROI, CTR, CPC, CPV |
+Design Thinking: Clean layout, navigation pane, interactive user experience |
+Storytelling: Insight narratives, title alignment, and insight boxes |
+
+
+
+📬 Contact
+
+Archi Dholiya 
+📧 Email: [archidholiya1701@gmail.com]  
+
+
+
+
+> ⭐ If you found this project helpful, please consider giving it a ⭐ on GitHub!
+
 
