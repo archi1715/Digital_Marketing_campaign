@@ -124,7 +124,7 @@ A high-level performance overview with:
 ![Geo Analysis](DMC-screenshot/Screenshot%202025-07-15%20005700.png)
 
 🔹 **Slicer Panel**  
-![Slicer Panel](DMC-screenshot/Screenshot%202025-07-15%20005724.png)
+![Slicer Panel](DMC- screenshot/Screenshot 2025-07-15 004902.png)
 
 
 
