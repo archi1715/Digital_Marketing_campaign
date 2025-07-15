@@ -108,23 +108,24 @@ A high-level performance overview with:
 
 📸 Dashboard Screenshots
 
-🔹 Executive Summary  
-![Executive Summary](DMC-screenshot/Screenshot 2025-07-15 004902.png)
+🔹 **Executive Summary**  
+![Executive Summary](DMC-screenshot/Screenshot%202025-07-15%20004902.png)
 
-🔹 Campaign Performance  
-![Campaign Performance](DMC-screenshot/Screenshot 2025-07-15 005248.png)
+🔹 **Campaign Performance**  
+![Campaign Performance](DMC-screenshot/Screenshot%202025-07-15%20005248.png)
 
-🔹 Audience Insights  
-![Audience Insights](DMC-screenshot/Screenshot 2025-07-15 005550.png)
+🔹 **Audience Insights**  
+![Audience Insights](DMC-screenshot/Screenshot%202025-07-15%20005550.png)
 
-🔹 Channel Performance  
-![Channel Performance](DMC-screenshot/Screenshot 2025-07-15 005613.png)
+🔹 **Channel Performance**  
+![Channel Performance](DMC-screenshot/Screenshot%202025-07-15%20005613.png)
 
-🔹 Geo Analysis  
-![Geo Analysis](DMC-screenshot/Screenshot 2025-07-15 005700.png)
+🔹 **Geo Analysis**  
+![Geo Analysis](DMC-screenshot/Screenshot%202025-07-15%20005700.png)
 
-🔹 Slicer Panel  
-![Slicer Panel](DMC-screenshot/Screenshot 2025-07-15 005724.png)
+🔹 **Slicer Panel**  
+![Slicer Panel](DMC-screenshot/Screenshot%202025-07-15%20005724.png)
+
 
 
 
